@@ -13,7 +13,7 @@ data = [
 print('REVENUE | PROFIT | PERCENT')
 
 # This template aligns and display the data in the proper format
-TEMPLATE = '{revenue:>7,} | {profit:>+6} | {percent:>7.2%}'
+TEMPLATE = '{revenue:>7,} | {profit:>+ 6} | {percent:>7.2%}'
 
 # Print the data rows
 for revenue, profit in data:

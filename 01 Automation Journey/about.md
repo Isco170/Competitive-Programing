@@ -9,3 +9,6 @@
 8. Introducing regular expressions
 9. Going deeper into regular expressions
 10. Adding command-line arguments
+
+## Create environment
+`python -m venv tutorial-env`
